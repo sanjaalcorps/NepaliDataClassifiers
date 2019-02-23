@@ -1,3 +1,8 @@
+*******************************************************************
+@author - Kushal Paudyal
+Downloaded from: https://github.com/kushalzone/NepaliStopWords/
+Prepared for: nlp.icodejava.com
+*******************************************************************
 अक्युपेशनल
 अचेत
 अटिजम
