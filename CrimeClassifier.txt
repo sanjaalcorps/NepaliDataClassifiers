@@ -1,3 +1,8 @@
+*******************************************************************
+@author - Kushal Paudyal
+Downloaded from: https://github.com/kushalzone/NepaliDataClassifiers/
+Prepared for: nlp.icodejava.com
+*******************************************************************
 अख्तियार
 अनुसन्धान
 अपराध
