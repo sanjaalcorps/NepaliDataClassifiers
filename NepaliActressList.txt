@@ -1,0 +1,95 @@
+*******************************************************************
+@author - Kushal Paudyal
+Downloaded from: https://github.com/kushalzone/NepaliDataClassifiers/
+Prepared for: nlp.icodejava.com
+List generated with the help of ChatGPT
+*******************************************************************
+Aakesha Bista | आकेशा विष्ट
+Aanchal Sharma | आँचल शर्मा
+Anmol K.C | अनमोल केसी
+Anu Shah | अनु शाह
+Arjoo Silwal | अर्जु सिलवाल
+Arunima Lamsal | अरुणिमा लम्साल
+Ashma DC | आश्मा डि.सि
+Aslesha Thakuri | अश्लेषा ठकुरी
+Barsha Raut | बर्षा राउत
+Bimalesha Basnet | बिमलेशा वस्नेत
+Binita Baral | विनिता बराल
+Binita Oli | विनिता ओली
+Durga Kharel | दुर्गा खरेल
+Garima Pant | गरिमा पन्त
+Garima Sharma | गरिमा शर्मा
+Gauri Malla | गौरी मल्ल
+Harshika Shrestha | हर्षिका श्रेष्ठ
+Jharana Thapa | झरना थापा
+Jyoti Kafle | ज्योति काफ्ले
+Jyotsna Yogi | ज्योत्स्ना योगी
+Kamana Shrestha | कमना श्रेष्ठ
+Karishma Manandhar | करिश्मा मनन्धर
+Karishma Shrestha | करिश्मा श्रेष्ठ
+Keki Adhikari | केकी अधिकारी
+Kristi Mainali | क्रिष्टी मैनाली
+Kusum Gurung | कुसुम गुरुङ
+Kusum Shrestha | कुसुम श्रेष्ठ
+Laxmi B.C | लक्ष्मी बि.सि
+Mahima Silwal | महिमा सिलवाल
+Mala Limbu | माला लिम्बु
+Mala Sinha | माला सिन्हा
+Mala Thapa | माला थापा
+Manisha Koirala | मनिषा कोइराला
+Mithila Sharma | मिथिला शर्मा
+Namrata Shrestha | नम्रता श्रेष्ठ
+Nandita K.C | नन्दिता केसी
+Nandita KC | नन्दिता केसी
+Neelam Chand | नीलम चन्द
+Neeta Dhungana | नीता ढुङ्गाना
+Neeta Pokhrel | नीता पोख्रेल
+Niruta Singh | निरूता सिंह
+Nischal Basnet | निश्चल बस्नेत
+Nisha Adhikari | निशा अधिकारी
+Nisha Banu Rai | निशा बनु राई
+Nita Dhungana | निता ढुङ्गाना
+Pooja Chand | पूजा चन्द
+Pooja Lama | पूजा लामा
+Pooja Rijal | पूजा रिजाल
+Pooja Sharma | पूजा शर्मा
+Poojana Pradhan | पूजना प्रधान
+Prakriti Shrestha | प्रकृति श्रेष्ठ
+Priyanka Karki | प्रियंका कार्की
+Priyanka MV | प्रियंका एम.भि
+Priyanka Maharjan | प्रियंका महर्जन
+Priyanka Singh Thakuri | प्रियंका सिंह ठकुरी
+Ragini Khadgi | रागिनी खड्गी
+Rajani KC | राजनी केसी
+Rajani Rana | राजनी राणा
+Rashmi Bhatta | रश्मि भट्ट
+Reecha Sharma | रिचा शर्मा
+Rejina Upreti | रेजिना उप्रेती
+Rekha Thapa | रेखा थापा
+Resh Marahatta | रेश मारहट्टा
+Richa Sharma | ऋचा शर्मा
+Rista Basnet | रिस्ता वस्नेत
+Roshan Shrestha | रोशन श्रेष्ठ
+Rubeena Shrestha | रुबीना श्रेष्ठ
+Rupa Rana | रुपा राणा
+Sabina Karki | सबिना कार्की
+Samina Khadka | समिना खड्का
+Samragyee RL Shah | सम्राज्य एर एल शाह
+Sanchita Luitel | संचिता लुइटेल
+Sandhya K.C | सन्ध्या केसी
+Sandhya Koirala | सन्ध्या कोइराला
+Saujanya Subba | सौजन्या सुब्बा
+Shilpa Maskey | शिल्पा मास्के
+Shilpa Pokharel | शिल्पा पोखरेल
+Shristi Shrestha | शृष्टी श्रेष्ठ
+Sipora Gurung | सिपोरा गुरुङ
+Sirjana Sharma | सिर्जना शर्मा
+Sirjana Subba | सिर्जना सुब्बा
+Smita Thapaliya | स्मिता थापलिया
+Sonika Bastola | सोनिका बस्तोला
+Sumina Ghimire | सुमिना घिमिरे
+Sunita Thakur | सुनिता ठाकुर
+Sushma Karki | सुष्मा कार्की
+Sushmita Bomjan | सुष्मिता बोम्जन
+Swastima Khadka | स्वस्तिमा खड्का
+Sweta Khadka | स्वेता खड्का
