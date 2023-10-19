@@ -12,8 +12,10 @@ The following classifiers from our project have been publicly released in this g
 <ul>
 <li>Health Classifiers</li>
   <li>Religion and Festival Classifiers</li>
-  <li>Nepali Actors List</li>
-  <li>Nepali Actress List</li>
+  <li>Crime Classifiers</li>
+  <li>Nepali Actors Classifiers</li>
+  <li>Nepali Actress Classifiers</li>
+  <li>Nepali Politician Classifiers</li>
   </ul>
 
 If you have any quesitons, contact us at contact@sanjaal.com
