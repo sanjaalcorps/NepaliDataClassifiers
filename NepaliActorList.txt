@@ -1,0 +1,95 @@
+*******************************************************************
+@author - Kushal Paudyal
+Downloaded from: https://github.com/kushalzone/NepaliDataClassifiers/
+Prepared for: nlp.icodejava.com
+List generated with the help of ChatGPT
+*******************************************************************
+Aaryan Sigdel | आर्यन सिग्देल
+Aashish Bhetwal | आशिष भेटवाल
+Ajay Phuyal | अजय फुयाल
+Akash Adhikari | आकाश अधिकारी
+Anil Thapa | अनिल थापा
+Anmol KC | अनमोल केसी
+Anoop Bikram Shahi | अनूप विक्रम शाही
+Anup Baral | अनुप बराल
+Anup Bikram Shahi | अनूप विक्रम शाही
+Aryan Adhikari | आर्यन अधिकारी
+Ayush Shrestha | आयुष श्रेष्ठ
+Ayushman Desraj Shrestha Joshi | आयुष्मान देशराज श्रेष्ठ जोशी
+Bhuwan KC | भुवन केसी
+Bikram Singh Tharu | बिक्रम सिंह थारू
+Binod Bhattarai | विनोद भट्टराई
+Bipin Karki | विपिन कार्की
+Biraj Bhatta | बिराज भट्ट
+Dayahang Rai | दयाहाङ राई
+Dhruba Dutta | ध्रुब दत्त
+Dikpal Karki | दिक्पाल कार्की
+Dinesh DC | दिनेश डि.सि
+Dinesh Neupane | दिनेश न्यौपाने
+Gajit Bista | गजित बिस्ट
+Gopal Dhakal | गोपाल ढकाल
+Haribansha Acharya | हरिवंश आचार्य
+Jiwan Luitel | जीवन लुइटेल
+Kameshwor Chaurasiya | कमेश्वर चौरसिया
+Karma Shakya | कर्मा शाक्य
+Karma | कर्मा
+Keshav Bhattarai | केशव भट्टराई
+Khagendra Lamichhane | खगेन्द्र लामिछाने
+Kiran KC | किरण केसी
+Laxmi B.C | लक्ष्मी बि.सि
+Madan Krishna Shrestha | मदन कृष्ण श्रेष्ठ
+Manav Subedi | मानव सुबेदी
+Manish Raut | मनिष राउत
+Manoj Pandit | मनोज पन्डित
+Mukesh Acharya | मुकेश आचार्य
+Nawal Khadka | नवल खड्क
+Neer Bikram Shah | नीर विक्रम शाह
+Nikhil Upreti | निखिल उप्रेती
+Nir Shah | निर शाह
+Nischal Basnet | निश्चल बस्नेत
+Pradeep Khadka | प्रदिप खड्का
+Prakash Ghimire | प्रकाश घिमिरे
+Pranesh Gautam | प्रणेश गौतम
+Puskar Gurung | पुष्कर गुरुङ
+Puspa Khadka | पुस्प खड्क
+Rabi Giri | रबि गिरी
+Rabin Tamang | रबिन तामाङ
+Rabindra Jha | रबिन्द्र झा
+Raj Ballav Koirala | राजबल्लभ कोइराला
+Raj Devkota | राज देवकोटा
+Rajan Raj Shiwakoti | रजन राज शिवाकोटी
+Rajesh Hamal | राजेश हमाल
+Ramesh Budhathoki | रमेश बुढाथोकी
+Ramesh Giri | रमेश गिरि
+Ramesh Thapa | रमेश थापा
+Ramesh Upreti | रमेश उप्रेती
+Rohit Rumba | रोहित रुम्बा
+Sabin Bastola | सबिन बस्तोला
+Sabin Shrestha | सबिन श्रेष्ठ
+Salin Man Baniya | सालिन मन बानिया
+Salon Basnet | सलोन बस्नेत
+Samip Giri | समिप गिरि
+Samrat Tamang | सम्राट तामाङ
+Samyam Puri | सम्यम पुरी
+Sandeep Chhetri | सन्दीप छेत्री
+Sanjay Gupta | सञ्जय गुप्ता
+Saroj Khanal | सरोज खनाल
+Saubhagya Basnet | सौभाग्य बस्नेत
+Saugat Malla | सौगात मल्ल
+Sauram Raj Tuladhar | सौरम राज तुलाधर
+Shiva Hari Poudel | शिव हरि पौडेल
+Shiva Shrestha | शिव श्रेष्ठ
+Shree Krishna Shrestha | श्रीकृष्ण श्रेष्ठ
+Shyam Aryal | श्याम आर्याल
+Shyam Bhattarai | श्याम भट्टराई
+Shyam Shrestha | श्याम श्रेष्ठ
+Sitaram Kattel (Dhurmus) | सीताराम कट्टेल (धुर्मुस)
+Sraj Garach | सज गराच
+Sudarshan Thapa | सुदर्शन थापा
+Suraj Singh Thakuri | सुरज सिंह ठकुरी
+Sushant Karki | सुशान्त कार्की
+Sushil Chhetri | सुशिल छेत्री
+Sushil Pokhrel | सुशील पोखरेल
+Sushil Shrestha | सुशील श्रेष्ठ
+Ujjwal Ghimire | उज्वल घिमिरे
+Umesh Poudel | उमेश पौडेल
