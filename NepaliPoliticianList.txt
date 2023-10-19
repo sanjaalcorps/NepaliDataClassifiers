@@ -1,0 +1,98 @@
+*******************************************************************
+@author - Kushal Paudyal
+Downloaded from: https://github.com/kushalzone/NepaliDataClassifiers/
+Prepared for: nlp.icodejava.com
+List generated with the help of ChatGPT
+*******************************************************************
+Aanik Bhandari | आनिक भंडारी
+Abhishek Pratap Shah | अभिषेक प्रताप शाह
+Agni Kharel | अग्नि खरेल
+Agni Prasad Sapkota | अग्नि प्रसाद सापकोटा
+Amik Sherchan | अमिक शेरचन
+Ammar Bahadur Thapa | अम्मरबहादुर थापा
+Ashta Laxmi Shakya | अष्टलक्ष्मी शाक्य
+Baburam Bhattarai | बाबुराम भट्टराई
+Badri Prasad | बद्री प्रसाद
+Bam Dev Gautam | बामदेव गौतम
+Bhisma Raj Angdembe | भिष्मराज अँगदेम्बे
+Bijaya Kumar Gachhadar | विजयकुमार गछदार
+Bimal Prasad Shreastha | विमल प्रसाद श्रेष्ठ
+Bimalendra Nidhi | विमलेन्द्र निधि
+Binda Pandey | बिन्दा पाण्डे
+Bipin Thapa | बिपिन थापा
+Birendra Mahato | बिरेन्द्र महतो
+Birmani Chaudhary | बिरमणि चौधरी
+Bishnu Poudel | विष्णु पौडेल
+Bishweshwar Prasad Koirala | विश्वेश्वर प्रसाद कोइराला
+Deepak Manange | दीपक मनङ्गे
+Dev Gurung | देव गुरुङ
+Devendra Poudel | देवेन्द्र पौडेल
+Dhana Kumari Sapkota | धनकुमारी सापकोटा
+Dilli Raj Khanal | दिल्लीराज खनाल
+Dipak Manange | दीपक मनङ्गे
+Durga Prasad Upadhyaya | दुर्गा प्रसाद उपाध्याय
+Gagan Thapa | गगन थापा
+Girija Prasad Koirala | गिरीजा प्रसाद कोइराला
+Harsha Shahi | हर्ष शाही
+Hikmat Karki | हिक्मत कार्की
+Hridayesh Tripathi | हृदयेश त्रिपाठी
+Ishwor Pokhrel | ईश्वर पोखरेल
+Janardan Sharma | जनार्दन शर्मा
+Jaya Prakash Prasad Gupta | जय प्रकाश प्रसाद गुप्ता
+Jhala Nath Khanal | झलनाथ खनाल
+Jitendra Dev | जितेन्द्र देव
+K P Sharma Oli | केपी शर्मा ओली
+Khadga Prasad Oli | खड्ग प्रसाद ओली
+Kismat BK | किस्मत बी.के.
+Krishna Prasad Bhattarai | कृष्ण प्रसाद भट्टराई
+Krishna Rai | कृष्ण राई
+Kul Prasad KC | कुलप्रसाद केसी
+Laxmi Pariyar | लक्ष्मी परियार
+Madhav Kumar Nepal | माधव कुमार नेपाल
+Mahendra Bahadur Shahi | महेन्द्र बहादुर शाही
+Mahesh Acharya | महेश आचार्य
+Man Bahadur Bishwakarma | मनबहादुर विश्वकर्मा
+Manish Suman | मनीष सुमन
+Nabindra Raj Joshi | नवीन्द्रराज जोशी
+Nanda Bahadur Pun | नन्दबहादुर पुन
+Nani Raj Panta | नानीराज पन्त
+Narayan Kaji Shrestha | नारायणकाजी श्रेष्ठ
+Nirmala Badal | निर्मला बदल
+Padma Lal Bishwokarma | पद्मलाल विश्वकर्मा
+Pampha Bhusal | पम्फा भुसाल
+Pashupati Chaulagain | पशुपति चौलागाइं
+Prabhu Shah | प्रभु शाह
+Prachanda (Pushpa Kamal Dahal) | पुष्पकमल दाहाल (प्रचण्ड)
+Pradeep Gyawali | प्रदीप ग्यावाली
+Prakash Man Singh | प्रकाशमान सिंह
+Purna Kumari Subedi | पूर्णा कुमारी सुबेदी
+Rabindra Adhikari | रबीन्द्र अधिकारी
+Raghubir Mahaseth | रघुवीर महासेठ
+Rajendra Lingden | राजेन्द्र लिङ्देन
+Rajendra Parajuli | राजेन्द्र पराजुली
+Ram Ayodhyaya Yadav | राम अयोध्याय यादव
+Ram Baran Yadav | रामवरण यादव
+Ram Chandra Poudel | रामचन्द्र पौडेल
+Ram Kumari Chaudhary | रामकुमारी चौधरी
+Ram Kumari Jhankri | रामकुमारी झङ्क्री
+Rambir Manandhar | रमविर मानन्धर
+Ramesh Badal | रमेश बडाल
+Ramesh Mahaseth | रमेश महासेठ
+Renu Dahal | रेणु दाहाल
+Sarita Giri | सरिता गिरी
+Shankar Pokhrel | शंकर पोखरेल
+Shekhar Koirala | शेखर कोइराला
+Sher Bahadur Deuba | शेर बहादुर देउवा
+Sher Dhan Rai | शेरधन राई
+Sherdhan Rai | शेरधन राई
+Shiva Poudel | शिव पौडेल
+Shyam Kishor Jha | श्यामकिशोर झा
+Sudarshan Baral | सुदर्शन बराल
+Sujata Koirala | सुजाता कोइराला
+Surendra Kumar Karki | सुरेन्द्र कुमार कर्की
+Sushil Koirala | सुशील कोइराला
+Tanka Angbuhang | टंका अँग्बुहाङ
+Tek Bahadur Basnet | टेक बहादुर बस्नेत
+Upendra Yadav | उपेन्द्र यादव
+Usha Gurung | उषा गुरुङ
+Yogesh Bhattarai | योगेश भट्टराई
